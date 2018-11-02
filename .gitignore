@@ -19,3 +19,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.vscode
+/src/user.json
+/src/shop.json
+/src/settings.json
+secrets.sh

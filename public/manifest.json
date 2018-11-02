@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Megan Porpeglia",
+  "name": "Megan Porpeglia",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://i.etsystatic.com/isla/48a5a1/26012780/isla_fullxfull.26012780_1v0tbpw2.jpg?version=0",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
