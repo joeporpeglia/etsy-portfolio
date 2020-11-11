@@ -6,9 +6,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 # misc
 .DS_Store
 .env.local
@@ -21,7 +18,4 @@ yarn-debug.log*
 yarn-error.log*
 
 .vscode
-/src/user.json
-/src/shop.json
-/src/settings.json
-secrets.sh
+.next
